@@ -183,7 +183,7 @@ This project is open-source and available under the MIT License.
 Kunal Gaikwad
 
 🌐 Portfolio / Projects:
-[GitHub Profile](https://github.com/kunal-debug1/react)
+[GitHub Profile](https://github.com/kunal-debug1)
 
 ---
 
